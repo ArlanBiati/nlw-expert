@@ -14,7 +14,7 @@ import { Button } from '@/components/button'
 import { Product } from '@/components/product'
 import { LinkButton } from '@/components/link-button'
 
-const PHONE_NUMBER = '5517991232222'
+const PHONE_NUMBER = '5517991111111'
 
 export default function Cart() {
   const navigation = useNavigation()
